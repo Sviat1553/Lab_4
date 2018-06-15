@@ -4,10 +4,11 @@
 Розробити гру хрестики-нулики, використовуючи React
 
 # Скріншоти
-![Start_game](https://user-images.githubusercontent.com/36728685/41483616-65ac0a06-70e2-11e8-8975-b18957b5e737.png)
 
-![active](https://user-images.githubusercontent.com/36728685/41483618-6783adc0-70e2-11e8-8eca-3245deb2cb2f.png)
+![start game](https://user-images.githubusercontent.com/36728685/41483820-475ad446-70e3-11e8-88eb-32848763d919.png)
 
-![active](https://user-images.githubusercontent.com/36728685/41483623-6a3fd200-70e2-11e8-86f5-61a7afdcf7b0.png)
+![playing](https://user-images.githubusercontent.com/36728685/41483821-48e85676-70e3-11e8-9eec-62e2be41840c.png)
 
-![Finish_game](https://user-images.githubusercontent.com/36728685/41483626-6dc3ca1c-70e2-11e8-9089-f44153cc6714.png)
+![playing](https://user-images.githubusercontent.com/36728685/41483823-49f7b5b6-70e3-11e8-97ac-3e43edb485d7.png)
+
+![finish game](https://user-images.githubusercontent.com/36728685/41483826-4b4da15a-70e3-11e8-9114-8fa190b2cdca.png)
