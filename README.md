@@ -4,7 +4,10 @@
 Розробити гру хрестики-нулики, використовуючи React
 
 # Скріншоти
-![Рис.1 - Скріншот](https://github.com/natalisabo/kpp_lab4/blob/master/screenshots/screen.png)
-![Рис.2 - Скріншот](https://github.com/natalisabo/kpp_lab4/blob/master/screenshots/screen1.png)
-![Рис.3 - Скріншот](https://github.com/natalisabo/kpp_lab4/blob/master/screenshots/screen2.png)
-![Рис.4 - Скріншот](https://github.com/natalisabo/kpp_lab4/blob/master/screenshots/screen3.png)
+![Start_game](https://user-images.githubusercontent.com/36728685/41483616-65ac0a06-70e2-11e8-8975-b18957b5e737.png)
+
+![active](https://user-images.githubusercontent.com/36728685/41483618-6783adc0-70e2-11e8-8eca-3245deb2cb2f.png)
+
+![active](https://user-images.githubusercontent.com/36728685/41483623-6a3fd200-70e2-11e8-86f5-61a7afdcf7b0.png)
+
+![Finish_game](https://user-images.githubusercontent.com/36728685/41483626-6dc3ca1c-70e2-11e8-9089-f44153cc6714.png)
